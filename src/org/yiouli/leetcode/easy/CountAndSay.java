@@ -1,7 +1,7 @@
 /**
  * @author Yiou Li
  */
-package org.yiouli.leetcode;
+package org.yiouli.leetcode.easy;
 
 import java.util.ArrayList;
 

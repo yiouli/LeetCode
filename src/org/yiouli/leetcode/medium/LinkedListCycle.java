@@ -1,7 +1,7 @@
 /**
  * @author Yiou Li
  */
-package org.yiouli.leetcode;
+package org.yiouli.leetcode.medium;
 
 /**
  * Given a linked list, determine if it has a cycle in it.

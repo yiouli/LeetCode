@@ -1,7 +1,7 @@
 /**
  * @author Yiou Li
  */
-package org.yiouli.leetcode;
+package org.yiouli.leetcode.easy;
 /**
  * Given a sorted array, remove the duplicates in place such that 
  * each element appear only once and return the new length.

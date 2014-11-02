@@ -3,7 +3,7 @@ package org.yiouli.leetcode;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-import org.yiouli.leetcode.PalindromeNumber;
+import org.yiouli.leetcode.easy.PalindromeNumber;
 
 public class PalindromeNumberTest {
 

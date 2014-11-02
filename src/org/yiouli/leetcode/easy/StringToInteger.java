@@ -1,7 +1,7 @@
 /**
  * @author Yiou Li
  */
-package org.yiouli.leetcode;
+package org.yiouli.leetcode.easy;
 
 /**
  * Implement atoi to convert a string to an integer.

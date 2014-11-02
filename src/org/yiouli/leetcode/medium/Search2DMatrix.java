@@ -1,7 +1,7 @@
 /**
  * @author Yiou Li
  */
-package org.yiouli.leetcode;
+package org.yiouli.leetcode.medium;
 
 /**
  * Write an efficient algorithm that searches for a value in an m x n matrix. 

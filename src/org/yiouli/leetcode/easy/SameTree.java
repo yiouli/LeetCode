@@ -1,7 +1,7 @@
 /**
  * @author Yiou Li
  */
-package org.yiouli.leetcode;
+package org.yiouli.leetcode.easy;
 
 /**
  * Given two binary trees, write a function to check if they are equal or not.
