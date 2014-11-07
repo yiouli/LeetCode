@@ -1,4 +1,4 @@
-package org.yiouli.leetcode;
+package org.yiouli.leetcode.medium;
 
 import static org.junit.Assert.*;
 
