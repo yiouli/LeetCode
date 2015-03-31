@@ -1,5 +1,21 @@
+/**
+ * @author Yiou Li
+ */
 package org.yiouli.leetcode.medium;
 
+/**
+ * Given n, how many structurally unique BST's (binary search trees) that store values 1...n?
+ * For example,
+ * Given n = 3, your program should return all 5 unique BST's shown below.
+ * 
+ *   1         3     3      2      1
+ *    \       /     /      / \      \
+ *     3     2     1      1   3      2
+ *    /     /       \                 \
+ *   2     1         2                 3
+ *   
+ * @see <a href="https://leetcode.com/problems/unique-binary-search-trees/">Unique BST on LeetCode</a>
+ */
 public class UniqueBST {
 	public int numTrees(int n) {
         //chose i as root, the number of bst is num of left bst * num of right bst
