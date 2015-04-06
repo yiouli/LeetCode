@@ -18,7 +18,7 @@ import java.util.List;
  * 
  * @see <a href="https://oj.leetcode.com/problems/subsets-ii/">Subsets II on LeetCode</a>
  */
-public class Subset2 {
+public class Subsets2 {
 	public List<List<Integer>> subsetsWithDup(int[] num) {
 		List<List<Integer>> ret = new ArrayList<List<Integer>>();
 		if (num == null || num.length == 0) return ret;
